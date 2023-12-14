@@ -8,5 +8,6 @@ namespace BaiNgay3.Models
 {
     internal class user
     {
+        int i = 2;
     }
 }
